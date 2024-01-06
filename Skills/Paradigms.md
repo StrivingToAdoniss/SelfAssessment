@@ -42,9 +42,9 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🖐️ used
   - Adapter
   - Observer
   - Strategy
@@ -62,5 +62,5 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method 🖐️ used
   - Visitor

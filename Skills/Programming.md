@@ -50,8 +50,8 @@
   - functor
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator 🖐️ used
+  - coroutine 🖐️ used
 - Data structures
   - array 🎓 known
   - structure 🎓 known
@@ -86,7 +86,7 @@
   - garbage collection 🎓 known
   - refactoring🖐️ used
   - code review 🎓 known
-  - antipatterns
+  - antipatterns 🙋 explained
   - paradigm 🎓 known
   - algorithm 🎓 known
   - magic numbers 🎓 known

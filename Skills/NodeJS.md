@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🙋 explained
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -94,10 +94,10 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
-  - Routing
-  - DoS
+  - Routing 🖐️ used
+  - DoS 🙋 explained
   - DDoS 🙋 explained
   - XSS
   - Path traversal
@@ -122,8 +122,8 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 🖐️ used
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,12 +131,12 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 
   - error.cause
   - error.code
   - error.message

@@ -4,7 +4,7 @@
   - Event loop
   - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O
+  - Async I/O 🙋 explained
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -27,15 +27,15 @@
   - Thenable
   - Promise 👂 heard
   - Async/await 🖐️ used
-  - Future
+  - Future 🙋 explained
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event 🖐️ used
-  - Coroutine
+  - Coroutine 🙋 explained
   - Goroutine
-  - Signal
+  - Signal 🖐️ used
   - Stream 🙋 explained
   - Chain of responsibility
   - Middleware
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 🙋 explained
   - setImmediate
   - nextTick
   - AbortController
