@@ -31,7 +31,7 @@
   - bitwise operators 🖐️ used
   - ternary operator 🖐️ used
   - void 🖐️ used
-  - yield
+  - yield 🖐️ used
   - await 🖐️ used
   - template literal
   - strict mode
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 🙋 explained
+  - npm 🖐️ used
   - prettier
   - MDN
